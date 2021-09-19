@@ -8,7 +8,7 @@ const name = ' Azuliana';
 // Here you can change your greetings
 const gree1 = 'Go to Sleep!  ';
 const gree2 = 'Good Morning!  ';
-const gree3 = 'Good Afternoon  ';
+const gree3 = 'Good Afternoon,  ';
 const gree4 = 'Good Evening,  ';
 const gree5 = 'Good Evening,  ';
 const gree6 = 'Good Evening,  ';
