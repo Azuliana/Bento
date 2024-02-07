@@ -39,7 +39,7 @@ const CONFIG = {
 	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Study',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://music.youtube.com/playlist?list=PLvp5XcMOHI_fbCObO2QP72q9GPHhokMss&si=HaL6YgpLWMvXyy00',
 				},
 				{
 					name: 'LoFi',
