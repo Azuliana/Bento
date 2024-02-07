@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Study',
-					link: 'https://music.youtube.com/playlist?list=PLvp5XcMOHI_fbCObO2QP72q9GPHhokMss&si=HaL6YgpLWMvXyy00',
+					link: 'https://www.youtube.com/watch?v=1ex_bNIFR1A',
 				},
 				{
 					name: 'LoFi',
