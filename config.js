@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Cyans',
+	name: 'Azuliana',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
